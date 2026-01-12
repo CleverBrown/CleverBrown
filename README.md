@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋, I'm Clever Brown
 
-<!--
-**CleverBrown/CleverBrown** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Analyst with experience in turning complex data into clear insights that help businesses make smarter decisions, improve performance, and increase profits.
+I specialize in collecting, cleaning, and transforming data, creating insightful visualizations, and delivering actionable reports—turning raw numbers into actions that drive strategy and business growth.
 
-Here are some ideas to get you started:
+## Tools
+![SQL](https://img.shields.io/badge/-SQL-005C99?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+Data Analysis | Data Cleaning | Data Transformation | Data Visualization
+
+## Soft Skills
+Analytical Thinking | Problem Solving | Communication | Attention to Detail
+
+
