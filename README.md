@@ -1,8 +1,8 @@
-![](./data-analytics-profile-banner.jpg)
+![](https://github.com/CleverBrown/CleverBrown/blob/main/Data%20Analytics%20Profile%20Banner.jpg)
 
 # Hi there 👋, I'm Clever Brown
 
-I am a Data Analyst with experience in turning complex data into clear insights that help businesses make smarter decisions, improve performance, and increase profits.
+A result-driven Data Analyst with experience in turning complex data into clear insights that help businesses make smarter decisions, improve performance, and increase profits.
 I specialize in collecting, cleaning, and transforming data, creating insightful visualizations, and delivering actionable reports—turning raw numbers into actions that drive strategy and business growth.
 
 ### Tools
