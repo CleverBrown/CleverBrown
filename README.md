@@ -16,4 +16,5 @@ Data Analysis | Data Cleaning | Data Transformation | Data Visualization
 ### Soft Skills
 Analytical Thinking | Problem Solving | Communication | Attention to Detail
 
-
+### Projects
+- 📊 [Dano Airlines Passenger Satisfaction Analysis](https://github.com/CleverBrown/Dano-Airlines-Passenger-Satisfaction-Analysis/tree/main)
