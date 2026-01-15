@@ -18,3 +18,8 @@ Analytical Thinking | Problem Solving | Communication | Attention to Detail
 
 ### Projects
 - 📊 [Dano Airlines Passenger Satisfaction Analysis](https://github.com/CleverBrown/Dano-Airlines-Passenger-Satisfaction-Analysis/tree/main)
+- 📱   [Databel Customer Churn Analysis](https://github.com/CleverBrown/Databel-Customer-Churn-Analysis/tree/main)
+
+### Contact Me
+- [Email](chukwucleverbrown1@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/chukwu-clever-4315a2252)
