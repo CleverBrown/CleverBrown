@@ -21,5 +21,5 @@ Analytical Thinking | Problem Solving | Communication | Attention to Detail
 - 📱   [Databel Customer Churn Analysis](https://github.com/CleverBrown/Databel-Customer-Churn-Analysis/tree/main)
 
 ### Contact Me
-- [Email](chukwucleverbrown1@gmail.com)
+- [Email](mailto:chukwucleverbrown1@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/chukwu-clever-4315a2252)
